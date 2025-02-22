@@ -1,5 +1,5 @@
 # NFT-LEMONAD
-LEMONAD assets on the MONAD testnet network
+LEMONAD is a NFT on the MONAD testnet network 
 
 ## Lemon Monad | LEMONAD
 Lemon Monad LEMONAD It is unique Lemon character NFT collection
